@@ -1,5 +1,6 @@
-##Códigos desenvolvidos no intuito de treinar minha lógica de programação!##
- 
-###Feito na linguagem C/C++###
+Códigos desenvolvidos no intuito de treinar minha lógica de programação!
+========================================================================
 
-By Marlok U+1F30D
+##Feito na linguagem *C/C++*
+
+By Marlok :earth_americas:
