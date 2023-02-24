@@ -1,6 +1,6 @@
 Códigos desenvolvidos no intuito de treinar minha lógica de programação!
 ========================================================================
 
-##Feito na linguagem *C/C++*
+## Feito na linguagem *C/C++*
 
-By Marlok :earth_americas:
+##### By Marlok :earth_americas:
